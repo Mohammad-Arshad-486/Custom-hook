@@ -7,9 +7,9 @@ const DataList = ({ data, onEdit, onDelete }) => (
         </th>
       </tr>
       <tr className="bg-gray-200">
-        <th className="border border-gray-300 p-2">Name</th>
-        <th className="border border-gray-300 p-2">Place</th>
-        <th className="border border-gray-300 p-2">Actions</th>
+        <th className="border border-gray-900 p-2">Name</th>
+        <th className="border border-gray-900 p-2">Place</th>
+        <th className="border border-gray-900 p-2">Actions</th>
       </tr>
     </thead>
     <tbody>
